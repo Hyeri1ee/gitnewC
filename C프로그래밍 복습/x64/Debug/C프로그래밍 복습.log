@@ -1,0 +1,14 @@
+﻿  practice5.cpp
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(6,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(6,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(7,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(10,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(13,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(14,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Galaxy\source\repos\C프로그래밍 복습\practice5.cpp(16,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  C프로그래밍 복습.vcxproj -> C:\Users\Galaxy\source\repos\C프로그래밍 복습\x64\Debug\C프로그래밍 복습.exe
