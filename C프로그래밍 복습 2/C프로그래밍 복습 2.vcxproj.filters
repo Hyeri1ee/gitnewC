@@ -16,61 +16,109 @@
     <Filter Include="소스 파일\second.stage">
       <UniqueIdentifier>{b5e252e1-170e-435d-aae7-ccf5842886b5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\first_stage">
+      <UniqueIdentifier>{cd0d2349-29fd-419f-b95a-a04cc4db5c4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\third_stage">
+      <UniqueIdentifier>{7cd14f3f-c87f-413f-8d03-78e71a37c801}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="prac1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac7.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac8.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac9.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac11.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac12.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac13.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac14.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac15.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac16.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prac17.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="p1.cpp">
       <Filter>소스 파일\second.stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac1.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac2.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac5.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac7.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac8.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac9.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac10.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac11.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac12.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac13.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac14.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac15.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac16.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="prac17.cpp">
+      <Filter>소스 파일\first_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="p2.cpp">
+      <Filter>소스 파일\second.stage</Filter>
+    </ClCompile>
+    <ClCompile Include="p3.cpp">
+      <Filter>소스 파일\second.stage</Filter>
+    </ClCompile>
+    <ClCompile Include="p4.cpp">
+      <Filter>소스 파일\second.stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c1.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c3.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c4.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c5.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c6.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c7.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c8.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c9.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c10.cpp">
+      <Filter>소스 파일\third_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="c11.cpp">
+      <Filter>소스 파일\third_stage</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
