@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
+<<<<<<< HEAD
 	//char -> unsigned char -> int -> unsigned int -> long -> unsigned long -> float -> double
 	int i = 3;
 	double d = 5.0;
@@ -10,5 +11,8 @@ int main(void)
 	printf("3/2=%d\n", i / 2); //1
 	printf("10/4=%d", 10 / 4); //2
 	printf("10.0/4=%f\n", 10.0 / 4); //2.500000
+=======
+
+>>>>>>> 8f4a9b81349e524bc16b85147f65b69e668f4aa2
 	return 0;
 }

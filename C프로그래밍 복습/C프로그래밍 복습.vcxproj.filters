@@ -36,6 +36,7 @@
     <ClCompile Include="practice6.cpp">
       <Filter>소스 파일\basic</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="practice7.cpp">
       <Filter>소스 파일\basic</Filter>
     </ClCompile>
@@ -51,5 +52,7 @@
     <ClCompile Include="practice11.cpp">
       <Filter>소스 파일\basic</Filter>
     </ClCompile>
+=======
+>>>>>>> 8f4a9b81349e524bc16b85147f65b69e668f4aa2
   </ItemGroup>
 </Project>

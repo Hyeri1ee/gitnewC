@@ -1,2 +1,5 @@
 C:\Users\Galaxy\source\repos\C프로그래밍 복습\x64\Debug\C프로그래밍 복습.exe
+<<<<<<< HEAD
 C:\Users\Galaxy\source\repos\gitnewC\C프로그래밍 복습\x64\Debug\C프로그래밍 복습.exe
+=======
+>>>>>>> 8f4a9b81349e524bc16b85147f65b69e668f4aa2
