@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\second.stage">
+      <UniqueIdentifier>{b5e252e1-170e-435d-aae7-ccf5842886b5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prac1.cpp">
@@ -59,6 +62,15 @@
     </ClCompile>
     <ClCompile Include="prac15.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prac16.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prac17.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p1.cpp">
+      <Filter>소스 파일\second.stage</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
