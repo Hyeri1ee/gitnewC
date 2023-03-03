@@ -129,5 +129,14 @@
     <ClCompile Include="d2.cpp">
       <Filter>소스 파일\fourth_stage</Filter>
     </ClCompile>
+    <ClCompile Include="d3.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d4.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d5.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

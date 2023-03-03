@@ -1,5 +1,5 @@
 #include <stdio.h>
-//포인터와 주소
+//포인터의 기초 : (실습 소스)ch0501_ptr02.c
 int main(void)
 {
 	int ia[7] = { 1,2,3,4,5,6,7 };
@@ -26,8 +26,17 @@ int main(void)
 
 	//int형을 가르키는 포인터
 	ptr = (int*)ia;
-	printf("ptr=%x, data=%d\n", (int*)ptr, *(int*)ptr);
 	ptr = (int*)ptr + 1; //주소 +1
 	printf("ptr=%x, data=%d\n", (int*)ptr, *(int*)ptr);
+
+	//char형을 가르키는 포인터
+	ptr = (char*)ca;
+	ptr = (char*)ptr + 1;
+	printf("ptr=%x, data=%c\n", (int*)ptr, *(int*)ptr);
+
+	//double형을 가르키는 포인터
+	ptr = (double*)da;
+	ptr = (double*)ptr + 1;
+	printf("ptr=%x, data=%lf\n", (double*)ptr, *(double*)ptr);
 	return 0;
 }
