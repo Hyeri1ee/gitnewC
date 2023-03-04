@@ -1,2 +1,2 @@
-﻿  f1.cpp
-  C프로그래밍 복습 2.vcxproj -> C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\x64\Debug\C프로그래밍 복습 2.exe
+﻿  f7.cpp
+C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\f7.cpp(12,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

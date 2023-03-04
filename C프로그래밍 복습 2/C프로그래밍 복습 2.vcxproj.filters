@@ -171,5 +171,23 @@
     <ClCompile Include="f1.cpp">
       <Filter>소스 파일\fifth_stage</Filter>
     </ClCompile>
+    <ClCompile Include="f2.cpp">
+      <Filter>소스 파일\fifth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="f3.cpp">
+      <Filter>소스 파일\fifth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="f4.cpp">
+      <Filter>소스 파일\fifth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="f5.cpp">
+      <Filter>소스 파일\fifth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="f6.cpp">
+      <Filter>소스 파일\fifth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="f7.cpp">
+      <Filter>소스 파일\fifth_stage</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
