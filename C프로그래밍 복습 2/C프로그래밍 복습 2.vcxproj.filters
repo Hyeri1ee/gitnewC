@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\fourth_stage">
       <UniqueIdentifier>{185943f2-7af7-4955-ad49-aab71401fecb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\fifth_stage">
+      <UniqueIdentifier>{06e19430-6bb8-4fad-9664-900ae6d60d38}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p1.cpp">
@@ -137,6 +140,36 @@
     </ClCompile>
     <ClCompile Include="d5.cpp">
       <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d6.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d7.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d8.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d9.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d10.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d11.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d12.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d13.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="d14.cpp">
+      <Filter>소스 파일\fourth_stage</Filter>
+    </ClCompile>
+    <ClCompile Include="f1.cpp">
+      <Filter>소스 파일\fifth_stage</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

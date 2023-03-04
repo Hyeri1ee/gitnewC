@@ -1,4 +1,2 @@
-﻿  d5.cpp
-C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\d5.cpp(17,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
-C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\d5.cpp(17,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+﻿  f1.cpp
   C프로그래밍 복습 2.vcxproj -> C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\x64\Debug\C프로그래밍 복습 2.exe
