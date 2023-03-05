@@ -1,2 +1,3 @@
-﻿  f7.cpp
-C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\f7.cpp(12,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  f11.cpp
+C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\f11.cpp(17,13): warning C4101: 'person' :참조되지 않은 지역 변수입니다.
+  C프로그래밍 복습 2.vcxproj -> C:\Users\Galaxy\source\repos\C프로그래밍 복습 2\x64\Debug\C프로그래밍 복습 2.exe
